@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'ROBOTO SLAB',sans-serif;
+}
+
+body{
+    background-color: #00def7;
+}
+
+body h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color:white;
+    text-decoration:underline;
+}
+
+h2 a{
+    display: flex;
+    justify-content: end;
+    margin-right: 30px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    color: rgb(34, 0, 255);
+}
+
+.titre-1{
+    text-decoration: underline;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.p-1{
+    font-size: 20px;
+    padding: 15px;   
+}
+
+.start-up{
+    margin-left: 15px;
+}
